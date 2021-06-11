@@ -1,5 +1,4 @@
 //	LUIS JOSÉ IXTA ZAMUDIO 17420565
-// LUIS JOSÉ IXTA ZAMUDIO 17420565
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
